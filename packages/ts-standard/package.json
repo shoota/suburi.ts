@@ -1,0 +1,14 @@
+{
+  "name": "ts-standard",
+  "version": "0.0.1",
+  "description": "standard typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.5.2"
+  }
+}
