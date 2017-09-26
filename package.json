@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/shoota/suburi.ts/issues"
   },
-  "homepage": "https://github.com/shoota/suburi.ts#readme"
+  "homepage": "https://github.com/shoota/suburi.ts#readme",
+  "devDependencies": {
+    "lerna": "^2.2.0"
+  }
 }
