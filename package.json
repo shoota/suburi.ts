@@ -1,0 +1,22 @@
+{
+  "name": "suburi.ts",
+  "version": "0.0.1",
+  "description": "suburi",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoota/suburi.ts.git"
+  },
+  "keywords": [
+    "suburi"
+  ],
+  "author": "shoota",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shoota/suburi.ts/issues"
+  },
+  "homepage": "https://github.com/shoota/suburi.ts#readme"
+}
