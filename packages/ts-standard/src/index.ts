@@ -1,4 +1,10 @@
-import * as person from './models/person'
+import { Man, Woman } from './models/person'
 
-const man = new person.Person.Man("John")
-console.log(man.say())
+export function greeting( names : {boy: string; girl: string} ) {
+    const man = new Man(names.boy)
+    const woman = new Woman(names.girl)
+    return man.say() + ', ' + woman.say()  
+}
+
+
+
