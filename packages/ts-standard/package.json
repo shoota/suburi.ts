@@ -4,7 +4,7 @@
   "description": "standard typescript",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "echo 'test'"
   },
   "author": "shoota",
   "license": "MIT",
