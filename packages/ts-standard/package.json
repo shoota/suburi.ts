@@ -6,7 +6,7 @@
   "scripts": {
     "test": "test"
   },
-  "author": "",
+  "author": "shoota",
   "license": "MIT",
   "devDependencies": {
     "@types/mocha": "^2.2.43",
